@@ -7,11 +7,11 @@ Link: http://courses.missouristate.edu/kenvollmar/mars/
 
 To play the game, first open the code file in MARS, and go to ***Tools - Bitmap Display***. Set the configuration as follows:
 
-- Unit width in pixels:      8    			     
-- Unit height in pixels:     8
-- Display width in pixels: &emsp;&ensp;&ensp;256
-- Display height in pixels: &emsp;	512
-- Base Address for Display: 	0x10008000 ($gp)
+- Unit width in pixels: 8    			     
+- Unit height in pixels: 8
+- Display width in pixels: 256
+- Display height in pixels: 512
+- Base Address for Display: 0x10008000 ($gp)
 
 Resize the window to fit the bitmap display.
 Click on ***Connet to MIPS***.
