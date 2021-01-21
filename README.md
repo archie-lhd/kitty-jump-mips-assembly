@@ -18,7 +18,7 @@ Click on ***Connet to MIPS***.
 
 Then go to ***Tools - Keyboard and Display MMIO Simulater***.
 
-###Congratulations! You are now all set!
+#### Congratulations! You are now all set!
 Simply click on <img src=https://user-images.githubusercontent.com/77775845/105328859-7e7cca80-5b9e-11eb-96de-de8f371a2de4.jpg width = "30" alt = "MARS-assemble-icon">
 on the toolbar to assemble the program 
  and then click on <img src=https://user-images.githubusercontent.com/77775845/105328867-80468e00-5b9e-11eb-8a9c-3981acb516d4.jpg width = "30" alt = "MARS-run-icon">
