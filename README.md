@@ -2,8 +2,8 @@
 ## Overview
 Kitty Jump is a game similar to the classic "Doodle Jump" game, implemented in MIPS assembly language.
 ## Configuration
-The project is written and tested in MARS 4.5 developed by Pete Sanderson and Ken Vollmar at Missouri State University. 
-Link: http://courses.missouristate.edu/kenvollmar/mars/
+The project is written and tested in **MARS 4.5** developed by Pete Sanderson and Ken Vollmar at Missouri State University. 
+[Download MARS 4.5](http://courses.missouristate.edu/kenvollmar/mars/)
 
 To play the game, first open the code file in MARS, and go to ***Tools - Bitmap Display***. Set the configuration as follows:
 
