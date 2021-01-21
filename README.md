@@ -7,7 +7,7 @@ Kitty Jump is a game similar to the classic "Doodle Jump" game, implemented in M
 ## Configuration
 The project is written and tested in [MARS 4.5](http://courses.missouristate.edu/kenvollmar/mars/) developed by *Pete Sanderson* and *Ken Vollmar* at Missouri State University. 
 
-![demo-gif](https://user-images.githubusercontent.com/77775845/105339418-a5d99480-5baa-11eb-88de-e76750d32c84.gif)
+![demo-gif](https://user-images.githubusercontent.com/77775845/105339910-37490680-5bab-11eb-88a6-6eca0f0b6789.gif)
 
 1. Open the code file in [MARS 4.5](http://courses.missouristate.edu/kenvollmar/mars/), and go to ***Tools - Bitmap Display***. Set the configuration as below:
 
