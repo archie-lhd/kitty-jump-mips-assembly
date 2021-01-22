@@ -29,6 +29,8 @@ to run it.
 5. **Congratulations! You are now all set! Enjoy the game!**
 
 ## Game Instruction
-Control the Kitty by hitting <kbd>J</kbd> (move left) or <kbd>K</kbd> (move right) keys on your keyboard. (Make sure you set the focus to the textbox in the ***Keyboard and Display MMIO Simulater*** window.)
+Control the Kitty by hitting <kbd>J</kbd> (move left) or <kbd>K</kbd> (move right) keys on your keyboard. 
 
 Pause the game by hitting <kbd>P</kbd>. Hit <kbd>P</kbd> again to continue.
+
+(Make sure you set the focus to the textbox in the ***Keyboard and Display MMIO Simulater*** window.)
