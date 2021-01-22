@@ -26,9 +26,9 @@ on the toolbar to assemble the program
  and then click on <img src=https://user-images.githubusercontent.com/77775845/105328867-80468e00-5b9e-11eb-8a9c-3981acb516d4.jpg width = "30" alt = "MARS-run-icon">
 to run it. 
 
-5. **Congratulations! You are now all set!**
+5. **Congratulations! You are now all set! Enjoy the game!**
 
 ## Game Instruction
-Control the Kitty by hitting <kbd>J</kbd> (move left) or <kbd>K</kbd> (move right) keys on your keyboard.
+Control the Kitty by hitting <kbd>J</kbd> (move left) or <kbd>K</kbd> (move right) keys on your keyboard. (Make sure you set the focus to the textbox in the ***Keyboard and Display MMIO Simulater*** window.)
 
 Pause the game by hitting <kbd>P</kbd>. Hit <kbd>P</kbd> again to continue.
