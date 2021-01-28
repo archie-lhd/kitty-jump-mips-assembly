@@ -29,7 +29,7 @@ to run it.
 
 5. **Congratulations! You are now all set! Enjoy the game!**
 
-## Game Instruction
+## Game Instructions
 Control the Kitty by hitting <kbd>J</kbd> (move left) or <kbd>K</kbd> (move right) keys on your keyboard. 
 
 Pause the game by hitting <kbd>P</kbd>. Hit <kbd>P</kbd> again to continue.
