@@ -3,6 +3,8 @@
 ![licence-MIT](https://img.shields.io/badge/license-MIT-blue)
 ## Overview
 
+This is a course project for CSCB58 at UTSC in 2020 Fall.
+
 Kitty Jump is a game similar to the classic "Doodle Jump" game, implemented in MIPS assembly language.
 
  <img src=https://user-images.githubusercontent.com/77775845/105339910-37490680-5bab-11eb-88a6-6eca0f0b6789.gif width = "240" alt = "gif-demo">
