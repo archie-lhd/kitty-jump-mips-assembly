@@ -1,4 +1,4 @@
-# kitty-jump 
+# kitty-jump-mips-assembly
 ![build-passing](https://img.shields.io/badge/build-passing-brightgreen)
 ![licence-MIT](https://img.shields.io/badge/license-MIT-blue)
 ## Overview
